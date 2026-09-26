@@ -10,9 +10,9 @@ The project was inspired by CMU Associate Teaching Professor Terry E. Lee's *Lea
 
 ## About the Project
 
-I have lived abroad for many years and am currently based in the Netherlands. Although English is part of my daily life, I still learn something new almost every day.
+I have lived abroad for many years and am currently based in the Netherlands. Although English is part of my daily life, I still learn something new every day.
 
-This blog is where I collect those moments and explore how English is used in real situations.
+This blog is where I collect those moments and explore how English is used in my daily life.
 
 ## Built With
 
