@@ -2,7 +2,7 @@
 
 A personal journal about the English words, expressions, mistakes, and small discoveries I encounter in everyday life.
 
-The project was inspired by CMU Associate Teaching Professor Terry E. Lee's *Learn English from Friends* and the idea that language can be learned not only from textbooks, but also from conversations, experiences, and the people around us.
+The project was inspired by CMU Associate Teaching Professor Terry E. Lee's *Learning English from Friends* and the idea that language can be learned not only from textbooks, but also from conversations, experiences, and the people around us.
 
 ## Website
 
