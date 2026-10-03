@@ -1,5 +1,5 @@
 ---
-title: "When Cold Feels Like Needles"
+title: "Cold Feet Near Coldfoot"
 description: "Trying to describe what −40°C actually feels like."
 pubDate: "Oct 3 2026"
 ---
