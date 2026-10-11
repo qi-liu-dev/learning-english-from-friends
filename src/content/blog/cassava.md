@@ -10,7 +10,7 @@ I've eaten cassava chips many times before, but somehow I had always assumed tha
 
 Apparently not.
 
-Today I learned that cassava is actually a root vegetable. In Chinese, it's 木薯.
+She told me that cassava is actually a root vegetable. I was super surprised, so I googled it and found out that in Chinese, it's 木薯.
 
 That surprised me even more because I had always thought 木薯 was called tapioca in English.
 
